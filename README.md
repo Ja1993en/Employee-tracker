@@ -20,7 +20,7 @@ SO THAT I can organize and plan my business
 Clone the project
 
 ```bash
- 
+ git clone
 ```
 
 Go to the project directory
