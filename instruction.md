@@ -49,10 +49,12 @@ For support, email mcneal.jalen@yahoo.com
 
 ## Authors
 
-- [@aja1993en](https://www.github.com/ja1993en)
+- [@ja1993en](https://www.github.com/ja1993en)
 
-# Heres a working video of the application :p
+# Heres a working video of the application :
 
+
+- [video](https://www.awesomescreenshot.com/video/9143623?key=5ef3e2aa24c3a39775e5b25374c22ee7)
 
 
 
